@@ -1,40 +1,36 @@
-# Deep Research Agent (Gemini DevPost)
+<div align="center">
+
+# Gemini DevPost
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Multiple-blue?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=law&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+</p>
+
+*An advanced software structure developed by Karthik Idikuda.*
+
+<br/>
+
+</div>
 
 ## Overview
-An automated deep research agent leveraging the Gemini 1.5 Pro context window. This tool automates the process of gathering, analyzing, and synthesizing vast amounts of information on complex topics, producing comprehensive research reports.
+Deep research agent built for DevPost hackathons.
 
-## Features
--   **Deep Search**: Recursively crawls web sources for relevant data.
--   **Context Analysis**: Utilizes Gemini's 1M+ token window to digest multiple documents.
--   **Report Synthesis**: Generates structured, citation-backed research papers.
--   **Fact Checking**: Cross-verifies information across multiple sources.
+<br/>
 
-## Technology Stack
--   **Model**: Gemini 1.5 Pro.
--   **Framework**: LangChain for agent orchestration.
--   **Search**: Google Custom Search API / Tavily API.
--   **Language**: Python.
+## Architecture & Features
+- **Clean Architecture:** Ensures high maintainability and modular structure.
+- **Optimized Performance:** Built to handle intensive operations with minimal latency.
+- **Scalable Design:** Seamlessly adaptable for future functional expansions.
 
-## Usage Flow
-1.  **Query**: User inputs a research topic (e.g., "Future of Solid State Batteries").
-2.  **Plan**: Agent creates a research plan and search queries.
-3.  **Gather**: System scrapes and reads pertinent articles.
-4.  **Synthesize**: AI compiles findings into a detailed report.
-
-## Quick Start
-```bash
-# Clone the repository
-git clone https://github.com/Nytrynox/Gemini-DevPost.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the agent
-python research_agent.py --topic "Your Topic"
-```
+<br/>
 
 ## License
-MIT License
+This project operates under the **MIT License**. See the `LICENSE` file for more details.
 
-## Author
-**Karthik Idikuda**
+---
+<div align="center">
+  <br/>
+  <i>Engineered by <b>Karthik Idikuda</b></i>
+</div>

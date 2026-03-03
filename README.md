@@ -1,15 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f0883e&height=220&section=header&text=Gemini%20DevPost&fontSize=42&fontAlignY=35&desc=General&descAlignY=55&fontColor=ffffff" alt="Header"/>
+![Header](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDgwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzFhMGYwMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzJkMWEwMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0NTI4MDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93Ij4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNCIgcmVzdWx0PSJiIi8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJiIiBvcGVyYXRvcj0ib3ZlciIvPgogICAgPC9maWx0ZXI+CiAgICA8ZmlsdGVyIGlkPSJnbG93MiI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjgiIHJlc3VsdD0iYiIvPgogICAgICA8ZmVDb21wb3NpdGUgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iYiIgb3BlcmF0b3I9Im92ZXIiLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2JnKSIgcng9IjEyIi8+CiAgCiAgPCEtLSBHcmlkIGxpbmVzIC0tPgogIDxsaW5lIHgxPSIwIiB5MT0iNTAiIHgyPSI4MDAiIHkyPSI1MCIgc3Ryb2tlPSIjZmZhNjU3IiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMCIgeTE9IjEwMCIgeDI9IjgwMCIgeTI9IjEwMCIgc3Ryb2tlPSIjZmZhNjU3IiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMCIgeTE9IjE1MCIgeDI9IjgwMCIgeTI9IjE1MCIgc3Ryb2tlPSIjZmZhNjU3IiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMjAwIiB5MT0iMCIgeDI9IjIwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjZmZhNjU3IiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iMCIgeDI9IjQwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjZmZhNjU3IiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNjAwIiB5MT0iMCIgeDI9IjYwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjZmZhNjU3IiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICAKICAKICA8Y2lyY2xlIGN4PSI1ODAiIGN5PSIzMCIgcj0iMiIgZmlsbD0iI2ZmYTY1NyIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjU4MDsgMjIwOyA1ODAiIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSI0MjAiIGN5PSI1NSIgcj0iMyIgZmlsbD0iI2ZmYTY1NyIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjQyMDsgMzgwOyA0MjAiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSI2NjAiIGN5PSI4MCIgcj0iNCIgZmlsbD0iI2ZmYTY1NyIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjY2MDsgMTQwOyA2NjAiIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSIzNDAiIGN5PSIxMDUiIHI9IjIiIGZpbGw9IiNmZmE2NTciIG9wYWNpdHk9IjAuNiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeCIgdmFsdWVzPSIzNDA7IDQ2MDsgMzQwIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4zOyAwLjk7IDAuMyIgZHVyPSI3cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9jaXJjbGU+CiAgPGNpcmNsZSBjeD0iNDYwIiBjeT0iMTMwIiByPSIzIiBmaWxsPSIjZmZhNjU3IiBvcGFjaXR5PSIwLjYiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iNDYwOyAzNDA7IDQ2MCIgZHVyPSI2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuMzsgMC45OyAwLjMiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjE4MCIgY3k9IjE1NSIgcj0iNCIgZmlsbD0iI2ZmYTY1NyIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjE4MDsgNjIwOyAxODAiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICAKICA8IS0tIFNjYW5uaW5nIGxpbmUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIzIiBmaWxsPSIjZmZhNjU3IiBvcGFjaXR5PSIwLjMiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieSIgdmFsdWVzPSIwOyAyMDA7IDAiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9yZWN0PgogIAogIDx0ZXh0IHg9IjUwJSIgeT0iNDIlIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtc2l6ZT0iMzgiIGZpbGw9IiNmZmE2NTciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbHRlcj0idXJsKCNnbG93KSIgc3R5bGU9ImxldHRlci1zcGFjaW5nOjRweCI+CiAgICBHRU1JTkkgREVWUE9TVAogIDwvdGV4dD4KICA8dGV4dCB4PSI1MCUiIHk9IjYyJSIgZm9udC1mYW1pbHk9IkFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmNjODAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0eWxlPSJsZXR0ZXItc3BhY2luZzozcHg7b3BhY2l0eTowLjgiPgogICAgUFJPUFJJRVRBUlkgU1lTVEVNIEFSQ0hJVEVDVFVSRQogIDwvdGV4dD4KICAKICA8IS0tIEJvdHRvbSBhY2NlbnQgbGluZSAtLT4KICA8bGluZSB4MT0iMjUwIiB5MT0iMTc1IiB4Mj0iNTUwIiB5Mj0iMTc1IiBzdHJva2U9IiNmZmE2NTciIHN0cm9rZS13aWR0aD0iMiIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9IngxIiB2YWx1ZXM9IjI1MDszMDA7MjUwIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieDIiIHZhbHVlcz0iNTUwOzUwMDs1NTAiIGR1cj0iM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9saW5lPgo8L3N2Zz4=)
+
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Type-General-f0883e?style=for-the-badge&logo=target&logoColor=black" alt="Type" />
-  <img src="https://img.shields.io/badge/Language-Polyglot-f0883e?style=for-the-badge&logo=code&logoColor=black" alt="Language" />
-  <img src="https://img.shields.io/badge/Files-4-161b22?style=for-the-badge&logo=files&logoColor=f0883e" alt="Files" />
-  <img src="https://img.shields.io/badge/License-PROPRIETARY-ff0000?style=for-the-badge&logo=shield&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/General-ffa657?style=for-the-badge&logo=target&logoColor=black" alt="Type" />
+  <img src="https://img.shields.io/badge/Polyglot-ffa657?style=for-the-badge&logo=code&logoColor=black" alt="Lang" />
+  <img src="https://img.shields.io/badge/4%20Files-2d1a00?style=for-the-badge&logo=files&logoColor=ffa657" alt="Files" />
+  <img src="https://img.shields.io/badge/PROPRIETARY-ff0000?style=for-the-badge&logo=shield&logoColor=white" alt="License" />
 </p>
 
 
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=14&pause=1000&color=FFA657&center=true&vCenter=true&width=500&lines=Gemini+DevPost;General+Architecture;Proprietary+System+by+Karthik+Idikuda" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +25,7 @@
 
 > Deep research agent built for DevPost hackathons.
 
-**Gemini DevPost** is a proprietary general system engineered by **Karthik Idikuda**. 
+**Gemini DevPost** is an advanced general system engineered by **Karthik Idikuda**. 
 
 <br/>
 
@@ -27,12 +33,12 @@
 
 ```mermaid
 graph LR;
-    A["Input Layer"] -->|Data| B["Core Processing Core"];
-    B -->|Logic| C{"Algorithm Engine"};
-    C -->|Output| D["Result Generator"];
-    
-    classDef core fill:#0d1117,stroke:#8b949e,stroke-width:2px,color:#fff;
-    class A,B,C,D core;
+    A["Input"] --> B["Core Engine"];
+    B --> C{"Algorithm"};
+    C --> D["Output"];
+
+    style A fill:#1a0f00,stroke:#ffa657,stroke-width:2px,color:#fff
+    style B fill:#2d1a00,stroke:#ffa657,stroke-width:2px,color:#fff
 ```
 
 <br/>
@@ -57,26 +63,26 @@ Gemini-DevPost/
 | **Project Category** | `General` |
 | **Total Source Files** | `4` |
 | **Frameworks** | `Native` |
-| **Intellectual Property** | `Strictly Proprietary` |
+| **IP Status** | `Strictly Proprietary` |
 
-<br/>
 
-## STRICT LEGAL WARNING & LICENSE
+## STRICT LEGAL WARNING
 
 > **PROPRIETARY AND CONFIDENTIAL**
 
-This software and all associated documentation are the **exclusive property of Karthik Idikuda**.
+This software is the **exclusive property of Karthik Idikuda**.
 
-- **NO PERMISSION IS GRANTED** to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software without explicit, written consent from the author.
-- **UNAUTHORIZED USE WILL RESULT IN SEVERE LEGAL ACTION.** Any individual or organization found using, referencing, or deploying this code without paying the required licensing fees will face immediate litigation, financial penalties, and potentially criminal prosecution where applicable by law.
-- **TO OBTAIN A LEGAL LICENSE**, you must directly contact Karthik Idikuda to negotiate payment terms.
+- **NO PERMISSION** to use, copy, modify, or distribute without written consent.
+- **UNAUTHORIZED USE** results in litigation, financial penalties, and criminal prosecution.
+- **LICENSING:** Contact Karthik Idikuda directly to negotiate terms.
 
-*By accessing this repository, you acknowledge and accept these strict proprietary terms.*
+*By viewing this repository, you accept these proprietary terms.*
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=F0883E&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;General+Architecture;Strict+Proprietary+License" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=FFA657&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;Strictly+Proprietary+Technology;Unauthorized+Use+Prohibited" alt="Typing SVG" />
 </div>
 
-<!-- TRACKING: S0ktR2VtaW5pLURldlBvc3QtVFJBQ0s= -->
+<!-- WATERMARK: S0ktUFJPUFJJRVRBUlktR2VtaW5pLURldlBvc3QtMjAyNg== -->
